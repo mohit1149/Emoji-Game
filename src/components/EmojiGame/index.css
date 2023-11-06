@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #6a59ff, #9796f0);
+  background-size: cover;
+  min-height: 100vh;
+  width: 80%;
+}
+.background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.unorder-list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}

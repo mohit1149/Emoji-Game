@@ -1,0 +1,46 @@
+/* Write your code here. */
+.bg-won-container {
+  background-color: #9796f0;
+  border-radius: 10px;
+  height: 50vh;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+}
+.won-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
+.won-paragraph {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.score {
+  color: #6a59ff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.start-again-button {
+  border-width: 0px;
+  background-color: #ffce27;
+  font-size: 15px;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  padding: 10px;
+}
+.won-lose-image {
+  height: 40vh;
+  margin-left: 30px;
+}
